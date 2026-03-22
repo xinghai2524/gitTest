@@ -11,8 +11,6 @@ ifconfig
 11
 12
 13add
-14
-15
 16add
 17add
 18add
